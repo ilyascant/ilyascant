@@ -30,28 +30,28 @@ I'm **Ilyas**, a passionate software engineer. Currently pursuing a Bachelor's i
       <td colspan="2"><b>Project</b></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ilyascant/CNN-Implementation-Using-Numpy-Flask-React"><img src="https://github.com/ilyascant/ilyascant/assets/79863003/b68a1ab2-a43d-40d5-b12a-0b7d8f6a028b" style="width: 250px; height: 250px;"></a></td>
-      <td style="text-align: center; width: auto; height: auto;">🔍 <a href="https://github.com/ilyascant/CNN-Implementation-Using-Numpy-Flask-React"><b>CNN Implementation</b></a><br>Built a CNN from scratch for digit classification with a React drawing app and a Flask backend.</td>
+      <td ><a href="https://github.com/ilyascant/CNN-Implementation-Using-Numpy-Flask-React"><img src="https://github.com/ilyascant/ilyascant/assets/79863003/b68a1ab2-a43d-40d5-b12a-0b7d8f6a028b" style="width: 15rem; height: 15rem;"></a></td>
+      <td >🔍 <a href="https://github.com/ilyascant/CNN-Implementation-Using-Numpy-Flask-React"><b>CNN Implementation</b></a><br>Built a CNN from scratch for digit classification with a React drawing app and a Flask backend.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ilyascant/Raducat-React-NodeJS-Website"><img src="https://github.com/ilyascant/ilyascant/assets/79863003/c192896f-a903-4865-9f97-4737c1053225" style="width: 250px; height: 250px;"></a></td>
-      <td style="text-align: center; width: auto; height: auto;">✨ <a href="https://github.com/ilyascant/Raducat-React-NodeJS-Website"><b>Raducat Website</b></a><br>A full-stack with dynamic themes, quizzes, and an admin panel using React and NodeJS.</td>
+      <td><a href="https://github.com/ilyascant/Raducat-React-NodeJS-Website"><img src="https://github.com/ilyascant/ilyascant/assets/79863003/c192896f-a903-4865-9f97-4737c1053225" style="width: 15rem; height: 15rem;"></a></td>
+      <td>✨ <a href="https://github.com/ilyascant/Raducat-React-NodeJS-Website"><b>Raducat Website</b></a><br>A full-stack with dynamic themes, quizzes, and an admin panel using React and NodeJS.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ilyascant/CHATAPI-Gift-Recommendations-REACT-EXPRESS-CHATGPT"><img src="https://github.com/ilyascant/CHATAPI-Gift-Recommendations-REACT-EXPRESS-CHATGPT/assets/79863003/ba5c2e30-52f0-4f17-b068-d2cd6f8373c0" style="width: 250px; height: 250px;"></a></td>
-      <td style="text-align: center; width: auto; height: auto;">🎉 <a href="https://github.com/ilyascant/CHATAPI-Gift-Recommendations-REACT-EXPRESS-CHATGPT"><b>Gift Recommendation System</b></a><br>Personalize your gift shopping with React, Node.js, and the ChatGPT API. Get suggestions!</td>
+      <td><a href="https://github.com/ilyascant/CHATAPI-Gift-Recommendations-REACT-EXPRESS-CHATGPT"><img src="https://github.com/ilyascant/CHATAPI-Gift-Recommendations-REACT-EXPRESS-CHATGPT/assets/79863003/ba5c2e30-52f0-4f17-b068-d2cd6f8373c0" style="width: 15rem; height: 15rem;"></a></td>
+      <td>🎉 <a href="https://github.com/ilyascant/CHATAPI-Gift-Recommendations-REACT-EXPRESS-CHATGPT"><b>Gift Recommendation System</b></a><br>Personalize your gift shopping with React, Node.js, and the ChatGPT API. Get suggestions!</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ilyascant/Tetris-Raylib-Cpp"><img src="https://github.com/ilyascant/Tetris-Raylib-Cpp/assets/79863003/6da2e33e-be05-4213-a94d-60e2c2451881" style="width: 250px; height: 250px;"></a></td>
-      <td style="text-align: center; width: auto; height: auto;">🕹️ <a href="https://github.com/ilyascant/Tetris-Raylib-Cpp"><b>Tetris Game</b></a><br>Dive into nostalgia with a classic Tetris game developed in C++ and Raylib.</td>
+      <td><a href="https://github.com/ilyascant/Tetris-Raylib-Cpp"><img src="https://github.com/ilyascant/Tetris-Raylib-Cpp/assets/79863003/6da2e33e-be05-4213-a94d-60e2c2451881" style="width: 15rem; height: 15rem;"></a></td>
+      <td>🕹️ <a href="https://github.com/ilyascant/Tetris-Raylib-Cpp"><b>Tetris Game</b></a><br>Dive into nostalgia with a classic Tetris game developed in C++ and Raylib.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ilyascant/AStar-Shortest-Path-Algorithm-SFML"><img src="https://user-images.githubusercontent.com/79863003/156578195-f0feea9e-bbc7-4289-ae79-b85bdf3d7821.gif" style="width: 250px; height: 250px;"></a></td>
-      <td style="text-align: center; width: auto; height: auto;">🚀 <a href="https://github.com/ilyascant/AStar-Shortest-Path-Algorithm-SFML"><b>A* Shortest Path Algorithm</b></a><br>Interactive C++/SFML app that finds the shortest path with A*.</td>
+      <td><a href="https://github.com/ilyascant/AStar-Shortest-Path-Algorithm-SFML"><img src="https://user-images.githubusercontent.com/79863003/156578195-f0feea9e-bbc7-4289-ae79-b85bdf3d7821.gif" style="width: 15rem; height: 15rem;"></a></td>
+      <td>🚀 <a href="https://github.com/ilyascant/AStar-Shortest-Path-Algorithm-SFML"><b>A* Shortest Path Algorithm</b></a><br>Interactive C++/SFML app that finds the shortest path with A*.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ilyascant/Verlet-Integration"><img src="https://media.giphy.com/media/gvuI4G4NEKVLTX7Xtw/giphy.gif" style="width: 250px; height: 250px;"></a></td>
-      <td style="text-align: center; width: auto; height: auto;">🕷️ <a href="https://github.com/ilyascant/Verlet-Integration"><b>Verlet Integration Simulation</b></a><br>Simulate ropes and webs using Verlet integration in C++/SFML.</td>
+      <td><a href="https://github.com/ilyascant/Verlet-Integration"><img src="https://media.giphy.com/media/gvuI4G4NEKVLTX7Xtw/giphy.gif" style="width: 15rem; height: 15rem;"></a></td>
+      <td>🕷️ <a href="https://github.com/ilyascant/Verlet-Integration"><b>Verlet Integration Simulation</b></a><br>Simulate ropes and webs using Verlet integration in C++/SFML.</td>
     </tr>
   </table>
 </div>
