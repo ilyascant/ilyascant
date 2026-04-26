@@ -70,31 +70,53 @@
 
 ### 🚀 Highlighted Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top"><a href="https://github.com/ilyascant/CNN-Implementation-Using-Numpy-Flask-React"><img src="https://github.com/ilyascant/ilyascant/assets/79863003/b68a1ab2-a43d-40d5-b12a-0b7d8f6a028b" style="width: 15rem; height: 15rem; border-radius: 8px;"></a></td>
-    <td valign="top">🔍 <a href="https://github.com/ilyascant/CNN-Implementation-Using-Numpy-Flask-React"><b>CNN Implementation</b></a><br>Built a CNN from scratch for digit classification with a React drawing app and a Flask backend.
-    <br/><br>🛠️ <strong>Technologies</strong>: Python, NumPy, Flask, React</td>
+    <td valign="top" width="50%">
+      🔍 <a href="https://github.com/ilyascant/CNN-Implementation-Using-Numpy-Flask-React"><b>CNN Implementation</b></a><br><br>
+      <a href="https://github.com/ilyascant/CNN-Implementation-Using-Numpy-Flask-React">
+        <img src="https://github.com/ilyascant/ilyascant/assets/79863003/b68a1ab2-a43d-40d5-b12a-0b7d8f6a028b" style="width: 15rem; height: 15rem; border-radius: 8px;">
+      </a><br><br>
+      Built a CNN from scratch for digit classification with a React drawing app and a Flask backend.
+      <br/><br/>🛠️ <strong>Technologies</strong>: Python, NumPy, Flask, React
+    </td>
+    <td valign="top" width="50%">
+      ✨ <a href="https://github.com/ilyascant/Raducat-React-NodeJS-Website"><b>Raducat Website</b></a><br><br>
+      <a href="https://github.com/ilyascant/Raducat-React-NodeJS-Website">
+        <img src="https://github.com/ilyascant/ilyascant/assets/79863003/c192896f-a903-4865-9f97-4737c1053225" style="width: 15rem; height: 15rem; border-radius: 8px;">
+      </a><br><br>
+      A full-stack app with dynamic themes, quizzes, and an admin panel.
+      <br/><br/>🛠️ <strong>Technologies</strong>: JavaScript, React, Node.js, Express
+    </td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/ilyascant/Raducat-React-NodeJS-Website"><img src="https://github.com/ilyascant/ilyascant/assets/79863003/c192896f-a903-4865-9f97-4737c1053225" style="width: 15rem; height: 15rem; border-radius: 8px;"></a></td>
-    <td valign="top">✨ <a href="https://github.com/ilyascant/Raducat-React-NodeJS-Website"><b>Raducat Website</b></a><br>A full-stack app with dynamic themes, quizzes, and an admin panel.
-    <br/><br>🛠️ <strong>Technologies</strong>: JavaScript, React, Node.js, Express</td>
+    <td valign="top" width="50%">
+      🕹️ <a href="https://github.com/ilyascant/Tetris-Raylib-Cpp"><b>Tetris Game</b></a><br><br>
+      <a href="https://github.com/ilyascant/Tetris-Raylib-Cpp">
+        <img src="https://github.com/ilyascant/Tetris-Raylib-Cpp/assets/79863003/6da2e33e-be05-4213-a94d-60e2c2451881" style="width: 15rem; height: 15rem; border-radius: 8px;">
+      </a><br><br>
+      Classic Tetris game developed from scratch.
+      <br/><br/>🛠️ <strong>Technologies</strong>: C++, Raylib
+    </td>
+    <td valign="top" width="50%">
+      🚀 <a href="https://github.com/ilyascant/AStar-Shortest-Path-Algorithm-SFML"><b>A* Path Algorithm</b></a><br><br>
+      <a href="https://github.com/ilyascant/AStar-Shortest-Path-Algorithm-SFML">
+        <img src="https://user-images.githubusercontent.com/79863003/156578195-f0feea9e-bbc7-4289-ae79-b85bdf3d7821.gif" style="width: 15rem; height: 15rem; border-radius: 8px;">
+      </a><br><br>
+      Interactive app that finds the shortest path visually.
+      <br/><br/>🛠️ <strong>Technologies</strong>: C++, SFML
+    </td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/ilyascant/Tetris-Raylib-Cpp"><img src="https://github.com/ilyascant/Tetris-Raylib-Cpp/assets/79863003/6da2e33e-be05-4213-a94d-60e2c2451881" style="width: 15rem; height: 15rem; border-radius: 8px;"></a></td>
-    <td valign="top">🕹️ <a href="https://github.com/ilyascant/Tetris-Raylib-Cpp"><b>Tetris Game</b></a><br>Classic Tetris game developed from scratch.
-    <br/><br>🛠️ <strong>Technologies</strong>: C++, Raylib</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/ilyascant/AStar-Shortest-Path-Algorithm-SFML"><img src="https://user-images.githubusercontent.com/79863003/156578195-f0feea9e-bbc7-4289-ae79-b85bdf3d7821.gif" style="width: 15rem; height: 15rem; border-radius: 8px;"></a></td>
-    <td valign="top">🚀 <a href="https://github.com/ilyascant/AStar-Shortest-Path-Algorithm-SFML"><b>A* Path Algorithm</b></a><br>Interactive app that finds the shortest path visually.
-    <br/><br>🛠️ <strong>Technologies</strong>: C++, SFML</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/ilyascant/Verlet-Integration"><img src="https://media.giphy.com/media/gvuI4G4NEKVLTX7Xtw/giphy.gif" style="width: 15rem; height: 15rem; border-radius: 8px;"></a></td>
-    <td valign="top">🕷️ <a href="https://github.com/ilyascant/Verlet-Integration"><b>Verlet Integration Simulation</b></a><br>Simulate ropes and webs using physics math.
-    <br/><br>🛠️ <strong>Technologies</strong>: C++, SFML</td>
+    <td valign="top" width="50%">
+      🕷️ <a href="https://github.com/ilyascant/Verlet-Integration"><b>Verlet Integration Simulation</b></a><br><br>
+      <a href="https://github.com/ilyascant/Verlet-Integration">
+        <img src="https://media.giphy.com/media/gvuI4G4NEKVLTX7Xtw/giphy.gif" style="width: 15rem; height: 15rem; border-radius: 8px;">
+      </a><br><br>
+      Simulate ropes and webs using physics math.
+      <br/><br/>🛠️ <strong>Technologies</strong>: C++, SFML
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
