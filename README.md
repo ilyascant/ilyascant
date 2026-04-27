@@ -4,15 +4,15 @@
 
 > **Software Engineer focused on payment systems, POS terminals, and banking infrastructure.**
 
-- 💼 **.NET & Angular developer** @ enterprise POS & payment systems
-- 🌐 **Personal projects:** React, Next.js, Drizzle ORM, PostgreSQL
-- 🎮 **Indie game dev:** Godot 4 + C#
+- **.NET & Angular developer** @ enterprise POS & payment systems
+- **Personal projects:** React, Next.js, Drizzle ORM, PostgreSQL
+- **Indie game dev:** Godot 4 + C#
 
 📍 **Location:** Ankara, Turkey &nbsp; | &nbsp; 🌐 **Languages:** Turkish, English &nbsp; | &nbsp; 📧 **Email:** [ilyascant123@gmail.com](mailto:ilyascant123@gmail.com)
 
 <br/>
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <table>
   <thead>
@@ -23,7 +23,7 @@
   </thead>
   <tbody>
     <tr>
-      <td valign="middle"><b>⚙️ Backend</b></td>
+      <td valign="middle"><b>Backend</b></td>
       <td valign="middle">
         <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" align="center" />
         <img src="https://skillicons.dev/icons?i=cs" title="C#" align="center" />
@@ -35,7 +35,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="middle"><b>🗄️ Databases</b></td>
+      <td valign="middle"><b>Databases</b></td>
       <td valign="middle">
         <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" align="center" />
         <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" align="center" />
@@ -45,7 +45,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="middle"><b>📱 Frontend & Mobile</b></td>
+      <td valign="middle"><b>Frontend</b></td>
       <td valign="middle">
         <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" align="center" />
         <img src="https://skillicons.dev/icons?i=angular" title="Angular" align="center" />
@@ -55,7 +55,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="middle"><b>🛠️ Tools & Other</b></td>
+      <td valign="middle"><b>Tools & Other</b></td>
       <td valign="middle">
         <img src="https://skillicons.dev/icons?i=godot" title="Godot 4" align="center" />
         <img src="https://skillicons.dev/icons?i=docker" title="Docker" align="center" />
@@ -68,7 +68,7 @@
 
 <br>
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 <table width="100%">
   <tr>
@@ -78,7 +78,7 @@
         <img src="https://github.com/ilyascant/ilyascant/assets/79863003/b68a1ab2-a43d-40d5-b12a-0b7d8f6a028b" style="width: 15rem; height: 15rem; border-radius: 8px;">
       </a><br><br>
       Built a CNN from scratch for digit classification with a React drawing app and a Flask backend.
-      <br/><br/>🛠️ <strong>Technologies</strong>: Python, NumPy, Flask, React
+      <br/><br/>🛠️<strong>Technologies</strong>: Python, NumPy, Flask, React
     </td>
     <td valign="top" width="50%">
       ✨ <a href="https://github.com/ilyascant/Raducat-React-NodeJS-Website"><b>Raducat Website</b></a><br><br>
